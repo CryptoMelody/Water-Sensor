@@ -7,5 +7,7 @@ The picrure of this sensor:
 ![6646509433](https://github.com/user-attachments/assets/87f63cf3-7285-421c-bc94-af09572915b5)
 
 S -- Pin(digital or Analog)
+
 **+** -- 5v
+
 **-** -- GND
